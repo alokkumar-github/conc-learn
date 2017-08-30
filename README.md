@@ -10,6 +10,7 @@ Apringboot-oAuth2:
 jackson: (AbstractMappingJacksonResponseBodyAdvice,pojo to json conversion and viceversa)
 Cloud foundary: (property load from cloud - profile)
 Springboot-batch:
+angular-4
 
 
 
