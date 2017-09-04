@@ -10,6 +10,7 @@ jackson: (AbstractMappingJacksonResponseBodyAdvice,pojo to json conversion and v
 Cloud foundary: (property load from cloud - profile)
 Springboot-batch:
 angular-4
+jhipster,IOT
 
 
 
