@@ -9,8 +9,10 @@ Apringboot-oAuth2:
 jackson: (AbstractMappingJacksonResponseBodyAdvice,pojo to json conversion and viceversa)
 Cloud foundary: (property load from cloud - profile)
 Springboot-batch:
-angular-4
+angular-5, mat ui,
 jhipster,IOT
+microservice-zuul-eureka-hystrix-docker-springboot-pivotal
+mean ( mongoDB, express , angular , node Js)
 
 
 
