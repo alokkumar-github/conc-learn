@@ -19,5 +19,8 @@ https://github.com/bfwg/springboot-jwt-starter
 
 https://github.com/deeplearning4j/deeplearning4j
 
+https://github.com/marinantonio/angular-mat-table-crud/tree/master/src/app/dialogs/edit
+https://marinantonio.github.io/angular-mat-table-crud/
+
 
 
