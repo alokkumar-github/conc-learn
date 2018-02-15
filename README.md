@@ -25,5 +25,8 @@ https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/
 
 http://www.knowledgepowerhouse.com
 
+https://github.com/iiitv/algos
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
 
 
