@@ -13,6 +13,7 @@ angular-5, mat ui,
 jhipster,IOT
 microservice-zuul-eureka-hystrix-docker-springboot-pivotal
 mean ( mongoDB, express , angular , node Js)
+micrometer with influx
 
 
 https://github.com/bfwg/springboot-jwt-starter
@@ -27,6 +28,7 @@ http://www.knowledgepowerhouse.com
 
 https://github.com/iiitv/algos
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+https://visola.github.io/2012/07/20/customizing-spring-security/index.html
 
 
 
