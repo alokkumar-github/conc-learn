@@ -10,10 +10,12 @@ jackson: (AbstractMappingJacksonResponseBodyAdvice,pojo to json conversion and v
 Cloud foundary: (property load from cloud - profile)
 Springboot-batch:
 angular-5, mat ui,
-jhipster,IOT
+jhipster,IOT,k8s,helm-chart
 microservice-zuul-eureka-hystrix-docker-springboot-pivotal
 mean ( mongoDB, express , angular , node Js)
 micrometer with influx, spring 5. reactive programing.
+react, react-native
+spring security
 
 
 https://github.com/bfwg/springboot-jwt-starter
