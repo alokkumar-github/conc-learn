@@ -21,7 +21,7 @@ spring boot task executor ( https://www.devglan.com/spring-boot/spring-boot-asyn
 
 Microservices Context-Based Configuration Approach ( https://modio.io/2015/10/20/microservices-context-based-configuration-approach/ )
 
-liquibase
+liquibase  https://www.youtube.com/watch?v=WPAKj0ygul0&list=PL8LikImwls6IM8Ks9CvpnU4UbcBCJUd3C&index=2
 
 https://github.com/bfwg/springboot-jwt-starter
 
