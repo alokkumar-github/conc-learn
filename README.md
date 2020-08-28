@@ -19,6 +19,8 @@ spring security
 spring - cassendra( https://www.codingame.com/playgrounds/13898/more-complex-modelling-with-spring-data-cassandra  https://www.guru99.com/cassandra-collections-tutorial-set-list-map.html https://www.javacodegeeks.com/2018/04/interacting-with-cassandra-using-the-datastax-java-driver.html https://data-flair.training/blogs/cassandra-cluster/ )
 spring boot task executor ( https://www.devglan.com/spring-boot/spring-boot-async-task-executor  https://stackoverflow.com/questions/45948866/modify-collection-with-resultsetfuture  https://www.datastax.com/dev/blog/java-driver-async-queries )
 
+redis :https://github.com/turkogluc/spring-redis-storage/blob/master/src/main/java/com/redis/authCache/examples/RedisTemplateExample.java
+
 Microservices Context-Based Configuration Approach ( https://modio.io/2015/10/20/microservices-context-based-configuration-approach/ )
 
 liquibase  https://www.youtube.com/watch?v=WPAKj0ygul0&list=PL8LikImwls6IM8Ks9CvpnU4UbcBCJUd3C&index=2
