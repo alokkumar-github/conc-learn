@@ -47,6 +47,6 @@ https://programmerfriend.com/rabbit-mq-retry/
 https://grokonez.com/spring-framework/spring-amqp/rabbitmq-sendreceive-java-object-messages-spring-rabbitmq-springboot
 https://www.codota.com/code/java/methods/org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer/start
 Note : codota to see the sample code
-
+https://github.com/vvgomes/event-driven-restaurant/blob/master/customers/src/main/java/com/restaurant/customers/CustomersApplication.java#L37
 
 
