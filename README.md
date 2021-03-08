@@ -41,7 +41,7 @@ https://visola.github.io/2012/07/20/customizing-spring-security/index.html
 https://www.youtube.com/watch?v=hdroCjAuTzg
 
 
-Dead Letter queue:
+RabbitMq - Dead Letter queue:
 https://stackoverflow.com/questions/61668228/spring-boot-failover-retryer-using-rabbitmq-failed-to-invoke-target-method
 https://programmerfriend.com/rabbit-mq-retry/
 
