@@ -44,5 +44,9 @@ https://www.youtube.com/watch?v=hdroCjAuTzg
 RabbitMq - Dead Letter queue:
 https://stackoverflow.com/questions/61668228/spring-boot-failover-retryer-using-rabbitmq-failed-to-invoke-target-method
 https://programmerfriend.com/rabbit-mq-retry/
+https://grokonez.com/spring-framework/spring-amqp/rabbitmq-sendreceive-java-object-messages-spring-rabbitmq-springboot
+https://www.codota.com/code/java/methods/org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer/start
+Note : codota to see the sample code
+
 
 
