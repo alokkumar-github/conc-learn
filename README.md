@@ -48,5 +48,5 @@ https://grokonez.com/spring-framework/spring-amqp/rabbitmq-sendreceive-java-obje
 https://www.codota.com/code/java/methods/org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer/start
 Note : codota to see the sample code
 https://github.com/vvgomes/event-driven-restaurant/blob/master/customers/src/main/java/com/restaurant/customers/CustomersApplication.java#L37
-
+https://www.devglan.com/spring-boot/springboot-rabbitmq-example
 
