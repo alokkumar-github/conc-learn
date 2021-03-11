@@ -49,4 +49,4 @@ https://www.codota.com/code/java/methods/org.springframework.amqp.rabbit.listene
 Note : codota to see the sample code
 https://github.com/vvgomes/event-driven-restaurant/blob/master/customers/src/main/java/com/restaurant/customers/CustomersApplication.java#L37
 https://www.devglan.com/spring-boot/springboot-rabbitmq-example
-
+https://springbootdev.com/2017/09/15/spring-amqp-rabbitmq-manually-pull-messages-from-the-queue/
