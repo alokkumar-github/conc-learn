@@ -51,5 +51,5 @@ https://github.com/vvgomes/event-driven-restaurant/blob/master/customers/src/mai
 https://www.devglan.com/spring-boot/springboot-rabbitmq-example
 https://springbootdev.com/2017/09/15/spring-amqp-rabbitmq-manually-pull-messages-from-the-queue/
 
-confd
+docker - confd  https://github.com/kelseyhightower/confd/blob/master/docs/quick-start-guide.md
 
