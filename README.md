@@ -52,4 +52,4 @@ https://www.devglan.com/spring-boot/springboot-rabbitmq-example
 https://springbootdev.com/2017/09/15/spring-amqp-rabbitmq-manually-pull-messages-from-the-queue/
 
 docker - confd  https://github.com/kelseyhightower/confd/blob/master/docs/quick-start-guide.md
-
+https://github.com/tirmizee/SpringBoot-Custom-JPA-Specification-Example/tree/master/src/main/java/com/tirmizee/jpa
