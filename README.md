@@ -53,3 +53,4 @@ https://springbootdev.com/2017/09/15/spring-amqp-rabbitmq-manually-pull-messages
 
 docker - confd  https://github.com/kelseyhightower/confd/blob/master/docs/quick-start-guide.md
 https://github.com/tirmizee/SpringBoot-Custom-JPA-Specification-Example/tree/master/src/main/java/com/tirmizee/jpa
+https://livebook.manning.com/book/java-8-in-action/chapter-5/1
