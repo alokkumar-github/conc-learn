@@ -58,3 +58,8 @@ https://livebook.manning.com/book/java-8-in-action/chapter-5/1
 letsencrypt https://letsencrypt.org/
 digicert  
 https://www.javainuse.com/devOps/docker
+
+https://github.com/Jaskey/ConsistentHash
+https://www.codeproject.com/Articles/56138/Consistent-hashing
+
+
