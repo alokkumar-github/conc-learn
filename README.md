@@ -65,3 +65,4 @@ https://www.codeproject.com/Articles/56138/Consistent-hashing
 javaScript>>>> execution of code flow
 https://medium.com/@Rahulx1/understanding-event-loop-call-stack-event-job-queue-in-javascript-63dcd2c71ecd
 https://felixgerschau.com/javascript-event-loop-call-stack/
+https://blog.yipl.com.np/node-js-understanding-single-threaded-server-side-language-f8e3f52c724e
