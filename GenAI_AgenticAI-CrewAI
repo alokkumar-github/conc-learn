@@ -1,0 +1,10 @@
+product architecure diagram, user guides -documents - question answer pair around those page per document  - finetuned an llm on those question answer pairs
+
+changing the parameter, not the entire model from scrach, rather we are taking lamm 3 model fineturing on the new data set which is question/answer pairs.to understand the document better.
+
+there are 2 version, finetuned version and rag version.
+
+hosting / infrencing these model using vllam
+
+
+intent translator -> whole idea of intent translator is to get the right understanding of the user's request. it create the user requirement then decide route the correct group of agent or the crew of agent -CrewAI
